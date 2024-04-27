@@ -1,0 +1,12 @@
+[submodule "order"]
+	path = order
+	url = git@github.com:quizhorniw/order-service.git
+[submodule "product"]
+	path = product
+	url = git@github.com:quizhorniw/product-service.git
+[submodule "customer"]
+	path = customer
+	url = git@github.com:quizhorniw/customer-service.git
+[submodule "discovery-server"]
+	path = discovery-server
+	url = git@github.com:quizhorniw/discovery-server-service.git
